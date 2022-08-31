@@ -16,13 +16,15 @@ python main.py
 ## Output
 
 Dantzig simplex algorithm on Klee-Minty 3D cube
-![image](https://user-images.githubusercontent.com/104710636/187679504-2bc5be29-b8d8-4677-865c-ffcf0a7fcc38.png)
+![image](https://user-images.githubusercontent.com/104710636/187679787-f3c62e48-a025-40d0-8a62-532364893d76.png)
+
 
 
 Randomized simplex algorithm on Klee-Minty 3D cube
-![image](https://user-images.githubusercontent.com/104710636/187679278-041d8299-6052-4f73-95cc-9192ce6f74d8.png)
+![image](https://user-images.githubusercontent.com/104710636/187679846-5ffb7ac9-0463-44a0-857a-2a05d66b9de6.png)
 
-(Note the difference in number of iterations)
+
+(Note the difference in number of iterations and path)
 
 ```bash
 Running dantzig, bland and random-edge simplex algorithm for various examples and compare results
